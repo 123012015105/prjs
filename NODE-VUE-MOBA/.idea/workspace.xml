@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b262f5ba-5fc6-4e8f-9aa8-32c31c54c9c4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/iconfont/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/11210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/116-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/127-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/128-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/132-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/13683a0d67496a017c67cc22e2b76785.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/175-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/194-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/1a56af5e8d59e0bc62c2bc3a29bd4829.1570002112.a18ade69c524b08a03ccc2e40f669fb9.184x124_35984.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/216863683e4ace8387dd3c9c247ad7fb.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/36d4cb66878da56559f149340155e6ec.1572593239.1c5864ad2c5de64bee81097f12439180.230x140_15016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/36d4cb66878da56559f149340155e6ec.1573033638.6bb69f887412dd98d7ac5d4694a3e63f.230x140_18867.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/45faf139868734eddd63331a3a110447.1573035885.124cd0810986de81ee0b9295e72dc3e1.184x124_9192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/48342f81cb518cacbac62cd408d0739e.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/505-freehover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/509.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/53873bcaec5c3fe56e9d681410452d30.1571368870.8536e5f1438d1c2685b02e1d4aa2e203.249x140_4485.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/53873bcaec5c3fe56e9d681410452d30.1572500771.7889203312eb436162c3fb17bf11b556.230x140_42191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/76ff6c6ee3afd35f48bf614482480933.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80102-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80103-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80104-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80105-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80107-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80108-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80109-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80110-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80115-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80121-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/80121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a3b9ea2b13e119799a1bba93dc9be42b.1548921180.be22a7a051157748a7a552e0fd42ef5d.686x385_71091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1571816324.e8b93e204f7f7293cec11c6b2d4be0e2.230x140_9465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1571908957.95ccbc0964c5bc62bcf8eac55cfbe70d.230x140_9860.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1572000962.8b96ad5c711736aeb20ec7924c9d92c8.230x140_7949.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1572332563.d8883082ec43b0dcfd5b9f8730721455.230x140_13631.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1572357768.4c8015a3edd337c0671ea69fceeff56f.230x140_15327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1572513325.c0e51ea569d858467c47f8c62e134a71.230x140_15454.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1572880232.a5d74da1fd5b9edacc67384b7237bd31.230x140_12188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1573202876.37490cbd30c21094294a3ef4d98be142.230x140_15328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/a8f73a12cdddf0f835c47d97c73a52de.1573558054.bd239295b3d512d2c26e051a98cd3bd7.230x140_14438.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/avatar1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/c81e728d9d4c2f636f067f89cc14862c.1570530820.b57e15a38848ddc6e4d7668e78560bb7.230x140_21884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/cfcd208495d565ef66e7dff9f98764da.1572407170.0c0096c1e480566aefce8b1eeeb2d2e2.230x140_78089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/e09fd2184ed8b86135ec750bdb4f733e.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/eb635e3c79f6e8e86688237d0e35a423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/eca1c85662adb6952202ad3080d69623.1571844136.d968f911e7c1500fbb321679fb515310.230x140_8664.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/images/icplogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/Card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/ListCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ListCard.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/components/ListCard.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="105" column="10" lean-forward="true" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+              <folding>
+                <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/routes/web/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="68" column="8" lean-forward="true" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+              <folding>
+                <element signature="e#468#1503#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/routes/admin/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hero.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/models/Hero.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/models/Category.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>px</find>
+      <find>$</find>
+      <find>map</find>
+      <find>path</find>
+      <find>app</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/src/style.scss" />
+        <option value="$PROJECT_DIR$/web/src/assets/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/web/src/views/Main.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/Card.vue" />
+        <option value="$PROJECT_DIR$/admin/src/views/Main.vue" />
+        <option value="$PROJECT_DIR$/server/routes/admin/index.js" />
+        <option value="$PROJECT_DIR$/admin/src/views/CategoryEdit.vue" />
+        <option value="$PROJECT_DIR$/server/plugins/db.js" />
+        <option value="$PROJECT_DIR$/server/index.js" />
+        <option value="$PROJECT_DIR$/server/models/Article.js" />
+        <option value="$PROJECT_DIR$/server/models/Category.js" />
+        <option value="$PROJECT_DIR$/web/src/assets/scss/style.scss" />
+        <option value="$PROJECT_DIR$/web/src/axios.js" />
+        <option value="$PROJECT_DIR$/web/src/views/Home.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/ListCard.vue" />
+        <option value="$PROJECT_DIR$/web/src/main.js" />
+        <option value="$PROJECT_DIR$/server/models/Hero.js" />
+        <option value="$PROJECT_DIR$/server/routes/web/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/admin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/web/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/admin/package.json" />
+      <path value="$PROJECT_DIR$/server/package.json" />
+      <path value="$PROJECT_DIR$/web/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/web/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="525" />
+    <option name="y" value="2" />
+    <option name="width" value="838" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1TUoPZ2AeB4q4WEOK4TAEHsolFN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NODE-VUE-MOBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-VUE-MOBA" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/src/assets" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\NODE-VUE-MOBA\web\src\components" />
+      <recent name="E:\code\NODE-VUE-MOBA\web\src\assets" />
+      <recent name="E:\code\NODE-VUE-MOBA\web\src\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\NODE-VUE-MOBA\web\src" />
+      <recent name="E:\code\NODE-VUE-MOBA\web\src\assets\scss" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b262f5ba-5fc6-4e8f-9aa8-32c31c54c9c4" name="Default" comment="" />
+      <created>1573461391846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573461391846</updated>
+      <workItem from="1573461454634" duration="2022000" />
+      <workItem from="1573522507753" duration="1353000" />
+      <workItem from="1573525911836" duration="8000" />
+      <workItem from="1573527804224" duration="54000" />
+      <workItem from="1573527883683" duration="11052000" />
+      <workItem from="1573545883648" duration="232000" />
+      <workItem from="1573546144805" duration="1495000" />
+      <workItem from="1573609836770" duration="309000" />
+      <workItem from="1573610505595" duration="29000" />
+      <workItem from="1573610677799" duration="136000" />
+      <workItem from="1573610831099" duration="748000" />
+      <workItem from="1573614221656" duration="24098000" />
+      <workItem from="1573782861108" duration="12712000" />
+      <workItem from="1574137215269" duration="4228000" />
+      <workItem from="1574215265843" duration="28283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70205000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14880952" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13843648" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13843648" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/src/views/Home.vue</url>
+          <line>80</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server/routes/web/index.js</url>
+          <line>15</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/AdEdit.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/admin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/CategoryEdit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/ListCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/plugins/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="145" column="14" lean-forward="true" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/36d4cb66878da56559f149340155e6ec.1572593239.1c5864ad2c5de64bee81097f12439180.230x140_15016.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/45faf139868734eddd63331a3a110447.1573035885.124cd0810986de81ee0b9295e72dc3e1.184x124_9192.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/76ff6c6ee3afd35f48bf614482480933.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/36d4cb66878da56559f149340155e6ec.1573033638.6bb69f887412dd98d7ac5d4694a3e63f.230x140_18867.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/1a56af5e8d59e0bc62c2bc3a29bd4829.1570002112.a18ade69c524b08a03ccc2e40f669fb9.184x124_35984.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/127.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/13683a0d67496a017c67cc22e2b76785.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/48342f81cb518cacbac62cd408d0739e.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/53873bcaec5c3fe56e9d681410452d30.1571368870.8536e5f1438d1c2685b02e1d4aa2e203.249x140_4485.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/53873bcaec5c3fe56e9d681410452d30.1572500771.7889203312eb436162c3fb17bf11b556.230x140_42191.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/c81e728d9d4c2f636f067f89cc14862c.1570530820.b57e15a38848ddc6e4d7668e78560bb7.230x140_21884.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/icplogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/eca1c85662adb6952202ad3080d69623.1571844136.d968f911e7c1500fbb321679fb515310.230x140_8664.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/images/eb635e3c79f6e8e86688237d0e35a423.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/iconfont/demo_index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/iconfont/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/AdEdit.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/CategoryEdit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/plugins/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/assets/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/axios.js" />
+    <entry file="file://$PROJECT_DIR$/admin/src/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/Card.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/AdminUserEdit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/Article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="92" column="28" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/ListCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/Category.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="105" column="10" lean-forward="true" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/Hero.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/admin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/web/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="68" column="8" lean-forward="true" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+          <folding>
+            <element signature="e#468#1503#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
